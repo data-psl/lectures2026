@@ -10,27 +10,33 @@ These practical sessions will necessitate the use of Python 3 with the standard 
 This program is a first draft. It can change. The basic pattern is: course in the morning and labs in the afternoon. 
 Check for updates with the teachers on the first day. You are required to bring your computers for the practical sessions.
 
-**Day 1** (Monday August 25, 2025):
+**Day 1** (Wednesday August 26, 2026):
+
 * 9:00--10:30: (course) Machine learning: recent successes.
 * 11:00-12:30: (course) Introduction to machine learning.
 * 14:00-17:30: (lab session) Introduction to Python and Numpy for data sciences.
 
-**Day 2** (Tuesday August 26, 2025):
+**Day 2** (Thursday August 27, 2026):
+
 * 9:00--10:30: (course) Machine learning models (linear, trees, neural networks).
 * 11:00-12:30: (course) Scikit-learn: estimation/prediction/transformation.
 * 14:00-17:30: (lab session) Practice of Scikit-learn.
 
-**Day 3** (Wednesday August 27, 2025):
+**Day 3** (Friday August 28, 2026):
+
 * 9:00-12:30: (course) The linear model, optimization
 * 14:00-17:30: (lab session) Logistic regression with gradient descent.
 
-**Day 4** (Thursday August 28, 2025):
+**Day 4** (Monday August 31, 2026):
+
 * 9:00-10:30: (course) Introduction to Deep-Learning
 * 11:00-12:30: (course) Introduction to unsupervised learning
-* 14:00-17:30 (lab session) Practical session
+* 14:00-17:30: (lab session) Practical session
 
-**Day 5** (Friday August 29, 2025):
-* Dario Colazzo  (course/lab session) Spark for ML, part 1 and 2
+**Day 5** (Tuesday September 1, 2026):
+
+* Dario Colazzo (course/lab session) Spark for ML, part 1 and 2
+
 
 ## Lectures
 
@@ -76,8 +82,9 @@ Links open Colab notebooks. You may also clone [this repository](https://github.
 
 ## Teachers
 
- * Côme Fiegel (ENSAE)
+
  * Ahmed Ben Yahmed (Criteo & ENSAE)
+ * Corentin Pla (Criteo & ENSAE)
  * [Dario Colazzo](https://www.lamsade.dauphine.fr/~colazzo/) (Dauphine Université)
  
 ## Acknowledgements
