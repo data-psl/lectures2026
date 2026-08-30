@@ -48,8 +48,8 @@ Check for updates with the teachers on the first day. You are required to bring 
   4. [Scikit-learn: estimation and pipelines](https://data-psl.github.io/lectures2025/slides/04_scikit_learn/)
   5. [Optimization for linear models](https://data-psl.github.io/lectures2025/slides/05_optimization_linear_models/)
   6. [Optimization for machine learning](https://data-psl.github.io/lectures2025/slides/06_optimization_general/)
-  7. [Deep learning: convolutional neural networks](https://data-psl.github.io/lectures2026/slides/07_deep_learning/)
-  8. [Unsupervised learning](https://data-psl.github.io/lectures2026/slides/08_unsupervised_learning/)
+  7. [Deep learning: convolutional neural networks](https://data-psl.github.io/lectures2025/slides/07_deep_learning/)
+  8. [Unsupervised learning](https://data-psl.github.io/lectures2025/slides/08_unsupervised_learning/)
 
 ### Spark and Machine Learning
 [Slides from Dario Colazzo](https://data-psl.github.io/lectures2025/slides/psl-pw2021-colazzo.pdf)
