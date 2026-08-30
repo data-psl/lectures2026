@@ -536,33 +536,6 @@ FC6:       [4096]      4096 neurons
 FC7:       [4096]      4096 neurons
 FC8:       [1000]      1000 neurons (softmax logits)
 ```
----
-## Hierarchical representation
-
-.center[
-          <img src="images/lecunconv.png" style="width: 760px;" />
-]
-
----
-.left-column[
-## ResNet
-]
-
-.footnote.small[
-.left-column[
-He, Kaiming, et al. "Deep residual learning for image recognition." CVPR. 2016.
-]
-]
-
-.right-column[
-.center[
-          <img src="images/resnet.png" style="width: 290px;" />
-]
-]
-
-Even deeper models:
-
-34, 50, 101, 152 layers
 
 ---
 .left-column[
@@ -590,39 +563,6 @@ A block learns the residual w.r.t. identity
 --
 
 - Good optimization properties
-
----
-.left-column[
-## ResNet
-]
-
-.footnote.small[
-.left-column[
-He, Kaiming, et al. "Deep residual learning for image recognition." CVPR. 2016.
-]
-]
-
-.right-column[
-.center[
-          <img src="images/resnet.png" style="width: 290px;" />
-]
-]
-
-ResNet50 Compared to VGG:
-
-#### Superior accuracy in all vision tasks <br/>**5.25%** top-5 error vs 7.1%
-
---
-
-#### Less parameters <br/>**25M** vs 138M
-
---
-
-#### Computational complexity <br/>**3.8B Flops** vs 15.3B Flops
-
---
-
-#### Fully Convolutional until the last layer
 
 ---
 ## Deeper is better
