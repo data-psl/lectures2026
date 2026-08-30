@@ -421,25 +421,7 @@ Schematic from Stanford http://cs231n.github.io/convolutional-networks
 ]
 
 ---
-## Stacking layers
 
-- Stack convolutions (with optional stride and padding)
-  $$x \rightarrow h\_1 = relu(w \star x + b) \rightarrow relu(w' \star h\_1 + b) \rightarrow \dots $$
-- From time to time (enables multiscale analysis)
-  $$h\_n \rightarrow pooling(h\_{n-1}) \rightarrow \dots $$
-
-### What happens at the end ?
-
-
---
-After many transformation:
-
-- we can flatten the (small image) $\rightarrow h_n$
-- Apply a last linear operator $s = w''^T h_n + b$
-- Get the class probabilities (logistic regression)
-$$ p = \text{softmax} (w^T h_n + b) \in \mathbb{R}^{1000}$$
-
----
 ## Training
 
 - At the end of the day, we are still doing
